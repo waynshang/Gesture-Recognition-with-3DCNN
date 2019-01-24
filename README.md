@@ -30,5 +30,5 @@ python real_time/real_time.py
 ## Link
 I also post a video on youtube:   
 https://www.youtube.com/watch?v=vd0czNKL1DE   
-Always welcome to attached me on linkdein:   
+Feel free to contact me on linkdein:   
 https://www.linkedin.com/in/wayne-shang-909636166/
