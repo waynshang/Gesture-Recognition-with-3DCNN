@@ -26,6 +26,6 @@ and the result will be like
 ![image](https://github.com/waynshang/Gesture-Recognition-with-3DCNN/blob/master/Image/demo.JPG)
 
 I also post a video on youtube:   
-https://www.youtube.com/watch?v=vd0czNKL1DE
+https://www.youtube.com/watch?v=vd0czNKL1DE   
 Always welcome to attached me on linkdein:   
 https://www.linkedin.com/in/wayne-shang-909636166/
