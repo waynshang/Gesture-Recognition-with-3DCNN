@@ -9,4 +9,11 @@ References:
 
 I select 6 different gestures from jester dataset include swiping left, swiping right, no gesture, rolling forward, rolling backward, stop
 
-the first model LRN+HRN can reach 0.78 accuracies
+First model:LRN+HRN can reach 0.78 accuracies
+![image](https://github.com/waynshang/Gesture-Recognition-with-3DCNN/blob/master/Image/HRN%2BLRN.jpg)
+Second model: 3DCNN can reach 0.76 accuracies
+![image](https://github.com/waynshang/Gesture-Recognition-with-3DCNN/blob/master/Image/3DCNN.jpg)
+Third model: 3DCNN+ one layer LSTM / + two layer LSTM / + three layer LSTM:
+![image](https://github.com/waynshang/Gesture-Recognition-with-3DCNN/blob/master/Image/3DCNN%2BLSTM.jpg)
+![image](https://github.com/waynshang/Gesture-Recognition-with-3DCNN/blob/master/Image/3DCNN%2B2LSTM.jpg)
+![image](https://github.com/waynshang/Gesture-Recognition-with-3DCNN/blob/master/Image/3DCNN%2B3LSTM.jpg)
