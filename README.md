@@ -1,6 +1,6 @@
 # Gesture-Recognition-with-3DCNN
 
-# In this repo I will provide 3 different way to do gesture recognition
+### In this repo I will provide 3 different way to do gesture recognition
 ## References Link:
 1. https://research.nvidia.com/sites/default/files/pubs/2015-06_Hand-Gesture-Recognition/CVPRW2015-3DCNN.pdf
 1. https://arxiv.org/pdf/1412.0767.pdf
