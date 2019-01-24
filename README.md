@@ -19,7 +19,7 @@ Third model: 3DCNN+ one layer LSTM / + two layer LSTM / + three layer LSTM
 ![image](https://github.com/waynshang/Gesture-Recognition-with-3DCNN/blob/master/Image/3DCNN%2B3LSTM.jpg)   
 
 
-## You can directly type in follwing command on your terminal
+## You can directly type in follwing command on your terminal to execute real-time demo
 ```bash
 python real_time/real_time.py
 ```
